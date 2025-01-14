@@ -6,7 +6,7 @@ public class PositiveTest {
 
     @Test
     public void positiveTest(){
-        System.out.println("this succeeds");
+        throw new RuntimeException("this test fails");
     }
 
 }
