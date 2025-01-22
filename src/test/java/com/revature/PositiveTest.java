@@ -4,9 +4,10 @@ import org.junit.Test;
 
 public class PositiveTest {
 
+    // adding comment
+
     @Test
     public void positiveTest(){
-        // some change made
         System.out.println("this succeeds");
     }
 
