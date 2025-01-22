@@ -6,6 +6,7 @@ public class PositiveTest {
 
     @Test
     public void positiveTest(){
+        // some change made
         System.out.println("this succeeds");
     }
 
