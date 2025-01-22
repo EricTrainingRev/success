@@ -6,6 +6,7 @@ public class PositiveTest {
 
     @Test
     public void positiveTest(){
+        // adding a comment
         throw new RuntimeException("this test fails");
     }
 
